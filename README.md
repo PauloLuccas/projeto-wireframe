@@ -30,10 +30,10 @@ Abra o terminal do seu sistema operacional e execute os seguintes comandos:
 
 ```bash
   # Clonar o repositório
-  git clone https://github.com/PauloLuccas/Trigg.git
+  git clone https://github.com/PauloLuccas/projeto-wireframe.git
 
   # Entrar no diretório
-  cd Trigg
+  cd projeto-wireframe
 
   # Rodar usando live serve
 ```
