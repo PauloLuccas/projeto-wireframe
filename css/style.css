@@ -1,3 +1,5 @@
+
+/* Style Header */
 header {
     width: 100%;
     height: 8.8rem;
@@ -38,4 +40,46 @@ header nav .btn-primary {
 
 header .menu-mobile {
     display: none;
+}
+
+/* Style hero */
+.s-hero {
+    padding: 7.2rem 0;
+}
+
+.s-hero .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.s-hero .text {
+    width: 100%;
+    max-width: 64.0rem;
+}
+
+.s-hero .text h1 {
+    margin-bottom: 2.0rem;
+}
+
+.s-hero .text p {
+    margin-bottom: 5.6rem;
+    max-width: 48.8rem;
+    font-size: 1.8rem;
+    line-height: 150%;
+    color: var(--gray-colors-400);
+}
+
+.s-hero .text .btn-primary {
+    padding: 1.7rem 3.7rem;
+}
+
+.s-hero .image {
+    width: 100%;
+    max-width: 48.8rem;
+    height: 49.6rem;
+    background-color: var(--gray-colors-50);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
