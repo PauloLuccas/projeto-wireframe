@@ -172,13 +172,13 @@ header .menu-mobile {
 .s-card-featured .second-area .all-imgs {
     display: flex;
     flex-wrap: wrap;
-    gap: 3.2rem;
+    gap: 3rem;
 }
 
 .s-card-featured .second-area .all-imgs .image {
     width: 17.6rem;
     height: 11.2rem;
-    background-color: var(--gray-colors-300);
+    background-color: var(--gray-colors-400);
     display: flex;
     align-items: center;
     justify-content: center;
