@@ -31,6 +31,11 @@
     header .menu-mobile {
         display: block;
     }
+
+    .s-hero .text h1 {
+        text-align: center;
+    }
+
     .s-hero .container {
         flex-direction: column;
     }
